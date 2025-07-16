@@ -13,6 +13,9 @@
 "MENTOR"- NEELA SANTOSH
 
 "DESCRIPTION"- This task is performed with the help of 'quick ref. me' and by some online editor sources.
+               TOOLS USED FOR IT - 
+                C++ STANDARD LIBRARY TOOLS- '<iostream>','<fstream>','<string'
+               
 
 #OUTPUT 
 
